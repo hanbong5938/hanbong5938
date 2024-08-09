@@ -8,7 +8,7 @@ I'm a passionate developer and here you can explore my projects and contribution
 ## 🌟 Explore My Work
 
 - **Portfolio:** [Explore My Work](https://hanbong5938.github.io/portfolio/)
-- **Blog:** [![](https://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory)](https://uriu.tistory.com/)
+- **Blog:** [![](https://img.shields.io/badge/-Tistory%20-black?style=flat-square&logo=tistory)](https://uriu.tistory.com/)
 
 [![hanbong5938's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbong5938&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=hanbong5938&color=brightgreen)
