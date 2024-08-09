@@ -1,9 +1,46 @@
+# 👋 Hello, I'm Hanbong5938!
 
-<a align="center" href="https://hanbong5938.github.io/portfolio/" rel="nofollow"> Explore My Work </a>
+### Welcome to my GitHub Profile
 
+I'm a passionate developer and here you can explore my projects and contributions. I love working on new ideas and contributing to the open-source community. Feel free to check out my portfolio, blog, and GitHub stats below.
 
-<a href="https://uriu.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/12b8e0192beca489cbd30fc02001843657a4a3a63a2459d5910a219941485ef4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d546973746f72792532305b4b525d2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d746973746f7279266c696e6b3d68747470733a2f2f676e67736e2e746973746f72792e636f6d2f" data-canonical-src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&amp;logo=tistory&amp;link=https://uriu.tistory.com/" style="max-width: 100%;"></a>
+---
 
+## 🌟 Explore My Work
 
-[![hanbong5938's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbong5938&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **Portfolio:** [Explore My Work](https://hanbong5938.github.io/portfolio/)
+- **Blog:** [![](https://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory)](https://uriu.tistory.com/)
+- **GitHub Stats:**  
+  [![hanbong5938's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbong5938&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+## 🔧 Tech Stack & Tools
+
+![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-181717?style=flat-square&logo=spring)
+![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=flat-square&logo=kotlin)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
+![NestJS](https://img.shields.io/badge/-NestJS-181717?style=flat-square&logo=nestjs)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-181717?style=flat-square&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)
+
+---
+
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbong5938&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hanbong5938&color=brightgreen)
+
+---
+
+## 📫 Contact Me
+
+- **Email:** hanbong5938@gmail.com
+
+---
